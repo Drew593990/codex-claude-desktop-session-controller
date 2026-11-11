@@ -1,5 +1,7 @@
 # Codex–Claude Desktop Session Controller
 
+[![Windows checks](https://github.com/Drew593990/codex-claude-desktop-session-controller/actions/workflows/test.yml/badge.svg)](https://github.com/Drew593990/codex-claude-desktop-session-controller/actions/workflows/test.yml)
+
 [详细中文说明](README.zh-CN.md) · [Usage](docs/USAGE.md) · [Comparisons](docs/COMPARISON.md) · [Privacy](SECURITY.md) · [Validation](docs/VALIDATION.md)
 
 A Windows-first Codex skill for working with **visible Claude Desktop Code sessions**. Codex can ask an existing Claude controller to create a fresh work session, continue an explicitly selected session in another project, read its history/results, and stop an authorized current turn. The person keeps the original Desktop conversation and can interrupt or take over there.
