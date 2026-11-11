@@ -1,0 +1,20 @@
+# Local state and generated configuration never belong in a release.
+.bridge/
+.claude/
+.mcp.json
+.session-controller-install.json
+.test-runs/
+backups/
+*.backup-*
+*.install-tmp-*
+*.jsonl
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+auth.json
+config.toml
+.release-progress.md
+docs/superpowers/
+*.log
